@@ -53,7 +53,7 @@ The backend proxy is required because Claude API doesn't allow direct browser re
 ## Setup
 
 ### Prerequisites
-- Backend deployed to Render (see [nt-prism-backend](https://github.com/YOUR_USERNAME/nt-prism-backend))
+- Backend deployed to Render (see [nt-prism-backend](https://github.com/ewallt/nt-prism-backend))
 - Backend URL configured in `index.html` (line 394)
 
 ### Local Development
@@ -73,7 +73,7 @@ python3 -m http.server 8000
 4. Branch: **main** → **/ (root)**
 5. Save
 
-Your site will be live at: `https://YOUR_USERNAME.github.io/nt-prism-frontend/`
+Your site will be live at: `https://ewallt.github.io/nt-prism-frontend/`
 
 ## Usage
 
@@ -104,7 +104,7 @@ Your site will be live at: `https://YOUR_USERNAME.github.io/nt-prism-frontend/`
 
 ## Related Repositories
 
-- **Backend**: [nt-prism-backend](https://github.com/YOUR_USERNAME/nt-prism-backend)
+- **Backend**: [nt-prism-backend](https://github.com/ewallt/nt-prism-backend)
 
 ## License
 
